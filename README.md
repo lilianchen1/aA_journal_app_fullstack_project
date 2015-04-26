@@ -6,6 +6,6 @@ Along with Backbone model and collection, Post have index view, index item subvi
 associated with a backbone route. Views contain an events hash that sends appropriate request to the backend post controller.
 Users can create, edit, and view posts. 
 
-To use the app, 
-1. open the rails server
-2. go to localhost:3000
+To use the app:
+  1. open the rails server
+  2. go to localhost:3000
