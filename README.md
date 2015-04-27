@@ -8,5 +8,7 @@ associated with a backbone route. Views contain an events hash that sends approp
 Users can create, edit, and view posts. 
 
 To use the app:
-  1. `>> rails server`
-  2. go to `localhost:3000`
+  1. `>> rake db:create`
+  2. `>> rake db:migrate`
+  3. `>> rails server`
+  4. go to `localhost:3000`
